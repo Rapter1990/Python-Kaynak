@@ -1,0 +1,1 @@
+Pyhton,Java ve C programlama dilleridir.
